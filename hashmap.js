@@ -85,4 +85,4 @@ class HashMap {
   }
 }
 
-module.exports = HashMap
+module.exports = { HashMap }
